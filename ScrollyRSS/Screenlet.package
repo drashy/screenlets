@@ -1,0 +1,7 @@
+[Screenlet Package]
+Name=NetmonScreenlet
+Author=Ashy <http://ashysoft.blogspot.com>
+Desc=Bandwidth meter
+Version=0.1
+ApiVersion=0.0.10
+Created=2008/03/01

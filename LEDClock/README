@@ -1,0 +1,38 @@
+LEDClockScreenlet v0.5 (c) 2007 Paul Ashton
+http://ashysoft.blogspot.com/
+
+You'll need Screenlets (http://www.screenlets.org) installed to use this!
+
+- How to Install? -
+Copy the whole dir into your ~/.screenlets dir and run the Screenlets Manager :)
+
+NOTE: Once its running you can drag it and get to the preferences ONLY by clicking on the top left block
+
+Enjoy!
+Ashy.
+
+==================================
+Update Log:
+v0.5
+ - Blocks are now drawn as rectangles instead of using a theme (themes have been removed)
+ - Added options for block color, roundness and shadow
+
+v0.4d
+ - Fixed timer bug introduced with 0.4c, doh!
+
+v0.4c
+ - Fixed bug with 12hr mode
+
+v0.4b
+ - Added icons for H, M and S seperately to allow for RGB theme (until "TODO-list item 1" is fixed)
+ - Fixed timer bug when seconds were not shown
+
+v0.4
+ - Added option to hide the 'seconds' blocks
+
+v0.2 - v0.3
+ - Added some more themes and other crap I can't remember
+
+v0.1
+ - Initial Release
+

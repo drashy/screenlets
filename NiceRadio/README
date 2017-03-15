@@ -1,0 +1,32 @@
+ClockRingScreenlet (c) 2007-2008 Paul Ashton
+http://ashysoft.wordpress.com/
+
+Requirements:
+  Screenlets 0.0.12 <http://www.screenlets.org/>
+
+How to Install?
+  Unpack and copy the 'ClockRing' folder into your '~/.screenlets' folder
+  and start it from the Screenlets Manager :)
+
+Bugs?
+  Please report any bugs you find on my blog <http://ashysoft.wordpress.com/> or by
+  email to drashy [at] gmail [dot] com
+
+If you like this screenlet please consider donating, even 1p is appreciated :)
+Ashy.
+
+==================================
+Update Log:
+v0.4 (25/03/2008)
+ - Added option to offset block position
+
+v0.3 (22/03/2008)
+ - Fixed Hour/Sec overlap bug
+ - Added option to check for new versions at startup
+
+v0.2 (22/03/2008)
+ - Added options to light all blocks up to and including the current
+ - Added option for block spacing
+
+v0.1 (19/03/2008)
+ - First public release.

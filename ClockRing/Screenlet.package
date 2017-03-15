@@ -1,0 +1,7 @@
+[Screenlet Package]
+Name=ClockRingScreenlet
+Author=Paul Ashton <http://ashysoft.wordpress.com/>
+Desc=A ring to tell you the time.
+Version=0.3
+ApiVersion=0.0.12
+Created=2008/22/03

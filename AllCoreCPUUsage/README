@@ -1,0 +1,36 @@
+AllCoreCPUUsageScreenlet v0.4 (c) 2008 Paul Ashton
+http://ashysoft.blogspot.com/
+
+Requirements:
+Screenlets 0.0.10 <http://www.screenlets.org/>
+
+How to Install?
+Copy the 'AllCoreCPUUsage' folder into your '~/.screenlets' folder and start it from the Screenlets Manager :)
+
+Bugs?
+Please report any bugs you find to drashy [at] gmail [dot] com or leave a
+comment on my site <http://ashysoft.blogspot.com/>, thanks!
+
+Hope you enjoy the screenlet!
+Ashy.
+
+==================================
+Update Log:
+v0.4
+ - Added color options, removed themes (for now)
+ - Fixed resizing bug when scale was not 100% (using 100% cpu!)
+ - Fixed graph accuracy
+ 
+v0.3
+ - Added option to start CPU naming from 1 instead of 0
+ - Added theming ability
+ - Added some themes, feel free to send your own for inclusion in the next version :)
+ - Added text color and shadow options
+
+v0.2
+ - New 'Graph' mode
+ - Fixed size bug
+
+v0.1
+ - First public release.
+

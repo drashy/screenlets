@@ -1,0 +1,7 @@
+[Screenlet Package]
+Name=HellaScreenlet
+Author=Ashy <http://ashysoft.blogspot.com>
+Desc=Screenlet interface to the excellent NZB leeching software, HellaNZB.
+Version=0.7
+ApiVersion=0.0.10
+Created=2008/17/02

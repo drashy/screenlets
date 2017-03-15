@@ -1,0 +1,7 @@
+[Screenlet Package]
+Name=AllCoreCPUUsageScreenlet
+Author=Ashy <http://ashysoft.blogspot.com>
+Desc=All-Core CPU Usage Monitor
+Version=0.4
+ApiVersion=0.0.10
+Created=2008/21/02

@@ -1,0 +1,35 @@
+HellaScreenlet v0.7 (c) 2007 Paul Ashton
+http://ashysoft.blogspot.com/
+
+Requirements:
+Screenlets 0.0.10 <http://www.screenlets.org/>
+HellaNZB 0.13 <http://www.hellanzb.com/>
+
+How to Install?
+Copy the 'Hella' folder into your '~/.screenlets' folder and start it from the Screenlets Manager :)
+
+USAGE NOTE:
+Only the top progress bar can be interacted with. (drag etc)
+
+Got Bugs?
+Please report any bugs you find by email: drashy [at] gmail [dot] com
+or leave a comment at <http://ashysoft.blogspot.com>
+
+Hope you enjoy the screenlet!
+Ashy.
+
+==================================
+Update Log:
+v0.7
+ - Added 'Force' menu options
+ - Fixed bug with times in download notification window
+
+v0.6
+ - Added 'Download complete' notifications
+ - Added days in eta for those really long downloads ;)
+ - Changed eta/speed, should be less erratic now
+ - Fixed bug that would crash the screenlet when queue was being updated
+
+v0.5
+ - First public release.
+

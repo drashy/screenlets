@@ -1,0 +1,10 @@
+Filesystem           1B-blocks      Used Available Use% Mounted on
+/dev/mapper/BootDisk-Fedora8
+                     10401144832 1193443328 8670830592  13% /
+tmpfs                463171584    536576 462635008   1% /dev/shm
+/dev/sda3            993984512  31883264 910794752   4% /boot
+/dev/mapper/BootDisk-SlashUser
+                     20802301952 4706353152 15022206976  24% /usr
+/dev/mapper/BootDisk-Home
+                     20802301952 8276189184 11452370944  42% /home
+

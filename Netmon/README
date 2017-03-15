@@ -1,0 +1,36 @@
+NetmonScreenlet (c) 2007-2008 Paul Ashton
+http://ashysoft.wordpress.com/
+
+Requirements:
+  Screenlets 0.0.12 <http://www.screenlets.org/>
+
+How to Install?
+  Unpack and copy the 'Netmon' folder into your '~/.screenlets' folder
+  and start it from the Screenlets Manager :)
+
+Bugs?
+  Please report any bugs you find on my blog <http://ashysoft.wordpress.com/> or by
+  email to drashy [at] gmail [dot] com
+
+If you like this screenlet please consider donating, even 1p is appreciated :)
+Ashy.
+
+==================================
+Update Log:
+v0.3 (??????????)
+ - Added stat saving on shutdown
+ - Added option to check for new versions of Netmon on start-up
+ - Added some error checking on the device name, will now alert you to a problem instead of just flashing.
+
+v0.2 (20/03/2008)
+ - Added options to disable upload/download data so you can have two seperate graphs should you want to.
+ - Added bit/byte display.
+ - Added line-graph mode with the option to fill (Now the default as I think it looks nicer ;)
+ - Added line-width option
+ - Added configurable text, now YOU get to decide what info to display :)
+ - Reworked the graph scaling, you can now overscale by a percentage and/or scale the graph to a certain size.
+ - Changed the default colors to opaque so people without compositing can see things. (Damn you screenlets .12)
+
+v0.1 (21/02/2008)
+ - First public release.
+

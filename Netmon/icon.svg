@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   version="1.0"
+   sodipodi:docbase="/home/ashy/.screenlets/Netmon"
+   sodipodi:docname="icon.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.7931373"
+     inkscape:cx="50"
+     inkscape:cy="50"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="100px"
+     height="100px"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="804"
+     inkscape:window-height="620"
+     inkscape:window-x="167"
+     inkscape:window-y="94" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:13.10079965;stroke-opacity:1"
+       id="rect2160"
+       width="100"
+       height="100"
+       x="0"
+       y="-7.9453588e-15" />
+    <path
+       style="fill:#ff0000;fill-opacity:0.50264551;fill-rule:evenodd;stroke:#ff0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M -9.6665497,44.864865 L -4.6542647,28.753949 L -2.5061425,32.692173 L 3.9382239,28.753949 L 8.2344682,34.124254 L 13.604774,36.988417 L 14.678835,31.260092 L 18.259039,42.000702 L 23.987364,47.371008 L 27.209548,43.432784 L 29.71569,38.062478 L 32.937873,25.531766 L 38.308179,8.7048087 L 40.814321,5.8406457 L 44.036504,11.926992 L 47.258688,36.272377 L 51.196912,64.197965 L 54.777115,71.716392 L 59.073359,71.716392 L 63.011583,68.136188 L 67.665848,53.815374 L 71.962092,42.358723 L 76.974377,33.050193 L 84.492805,29.82801 L 95.591436,31.260092 L 101.67778,39.136539 L 120.29484,47.371008 L 123.159,105.72833 L -17.542997,105.3703 L -9.6665497,44.864865 z "
+       id="path3134" />
+    <path
+       style="fill:#00ff00;fill-rule:evenodd;stroke:#00ff00;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.50264549;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M -36.518077,85.679186 L -28.641629,82.098982 L -24.703405,85.321165 L -11.456651,82.815023 C -11.456651,82.815023 -9.6665497,87.827308 -8.2344682,87.469287 C -6.8023868,87.111267 6.0863461,81.382941 6.0863461,81.382941 L 13.246753,83.889084 L 21.481221,89.61741 L 35.444015,75.654616 L 40.814321,84.247104 C 40.814321,84.247104 48.332748,90.691471 49.76483,91.049491 C 51.196911,91.407511 63.011583,87.827308 63.011583,87.827308 L 69.455949,83.173043 L 81.986662,78.518779 L 94.517375,85.679186 C 94.517375,85.679186 99.52966,90.691471 102.0358,90.691471 C 104.54194,90.691471 119.22078,85.679186 121.01088,86.037206 C 122.80098,86.395226 132.10951,86.395226 132.10951,86.395226 L 137.1218,108.59249 C 137.1218,108.59249 129.60337,119.3331 123.159,118.97508 C 116.71464,118.61706 8.5924886,118.61706 2.5061425,118.25904 C -3.5802036,117.90102 -58.715339,115.03686 -56.209196,112.53071 C -53.703054,110.02457 -36.876097,85.679186 -36.518077,85.679186 z "
+       id="path4105" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:italic;font-weight:normal;text-align:end;text-anchor:end;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;font-family:FreeSans"
+       x="97.381531"
+       y="22.667604"
+       id="text2160"><tspan
+         sodipodi:role="line"
+         id="tspan2162"
+         x="97.381531"
+         y="22.667604">Netmon</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M -31.147771,53.457354 L 154.30677,53.457354 L -31.147771,53.457354 z "
+       id="path2162" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -41.295189,95.468585 L 144.15935,95.468585 L -41.295189,95.468585 z "
+       id="path3135" />
+  </g>
+</svg>
